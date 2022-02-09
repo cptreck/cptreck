@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesse Caccavale aka cptreck
 - 👀 I’m interested in books, video games, board games, fishing, nature, and food.
-- 🌱 I’m currently learning JavaScript, Python, PowerShell, HTML, CSS, and SQL.
+- 🌱 I’m currently learning JavaScript, Python, C++, Java, PowerShell, HTML, CSS, and SQL.
 
 
 <!---
