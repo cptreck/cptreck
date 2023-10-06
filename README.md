@@ -1,6 +1,6 @@
 - Hi, I’m Jesse Caccavale
 - I’m interested in books, video games, board games, fishing, nature, and food.
-- I have experience with HTML, CSS, JavaScript, Python, SQL, and Java. I am looking for a place in the software development world. 
+- I have experience with HTML, CSS, JavaScript, Python, SQL, and Java. 
 
 
 
