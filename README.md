@@ -1,6 +1,5 @@
-- Hi, I’m Jesse Caccavale
-- I’m interested in books, video games, board games, fishing, nature, and food.
-- I have experience with HTML, CSS, JavaScript, Python, SQL, and Java. 
+- Hi, I’m CPTReck
+- This is where I store all my trash I'm ashamed of.
 
 
 
