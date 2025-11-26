@@ -1,5 +1,5 @@
-- Hi, I’m CPTReck
-- This is where I store all my trash I'm ashamed of.
+- Hi, I’m Jesse.
+
 
 
 
